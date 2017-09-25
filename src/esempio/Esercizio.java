@@ -8,6 +8,7 @@ public class Esercizio {
 		
 		System.out.println(op.somma(5,5));
 		System.out.println(op.sottrazione(5,5));
+		System.out.println(op.moltiplicazione(5,5));
 	}
 
 }
