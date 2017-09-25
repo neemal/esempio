@@ -9,4 +9,8 @@ public class Operazioni {
 	public int sottrazione(int x, int y){
 		return x - y;
 	}
+	
+	public int moltiplicazione(int x, int y){
+		return x * y;
+	}
 }
